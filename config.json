@@ -3,7 +3,7 @@
 		"port": "8251",
 		"protocol": "vmess",
 		"settings": {
-			"clients": [ {"id": "1b895e36-1c55-4e1d-9db6-cc5481f6f735",	"alterId": 2} ]
+			"clients": [ {"id": "1b895e36-1c55-4e1d-9db6-cc5481f6f735",	"alterId": 16} ]
 		},
 		"streamSettings": {
 			"network": "ws",
